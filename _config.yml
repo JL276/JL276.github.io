@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-# title: Justin's Personal Website
+title: JL276
 
 # Your name to show in the footer
 author: Justin Luu
@@ -15,10 +15,10 @@ author: Justin Luu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  Projects: "https://github.com/JL276"
 
 # --- Logo --- #
 
