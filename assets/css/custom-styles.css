@@ -1,5 +1,13 @@
+footer {
+    background-color: #e9e0d2;
+}
+
 footer .theme-by {
     visibility: hidden;
+}
+
+.navbar-custom {
+    background-color: #e9e0d2;
 }
 
 img {
@@ -8,4 +16,11 @@ img {
 
 .padding-top {
     padding-top: 15px;
+}
+
+body {
+    /* background-image: url(../img/cool-background.png); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    background-color: #e9e0d2;
 }
