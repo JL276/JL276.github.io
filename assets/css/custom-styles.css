@@ -1,14 +1,14 @@
-footer {
+/* footer {
     background-color: #e9e0d2;
-}
+} */
 
 footer .theme-by {
     visibility: hidden;
 }
 
-.navbar-custom {
+/* .navbar-custom {
     background-color: #e9e0d2;
-}
+} */
 
 img {
     height: 125px;
@@ -18,9 +18,9 @@ img {
     padding-top: 15px;
 }
 
-body {
+/* body { */
     /* background-image: url(../img/cool-background.png); */
     /* background-size: cover; */
     /* background-repeat: no-repeat; */
-    background-color: #e9e0d2;
-}
+    /* background-color: #e9e0d2; */
+/* } */
